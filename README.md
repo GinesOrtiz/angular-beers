@@ -13,6 +13,7 @@ Título de la propuesta
 Descripción
 Bio: explícanos un poco acerca de tí
 
+https://github.com/angularbeers/angular-beers/issues
 Contactaremos contigo lo antes posible
 ```
 
