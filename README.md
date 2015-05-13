@@ -28,7 +28,6 @@ http://www.meetup.com/AngularJS-Beers/events/221908399/
 
 
 #About us 
-#----------------------------------
 
 The AngularJS&Beers is a non-profit event from the community for the community. There is no schedule or speaker list in advance. Attendees get organized by common interest to interact. 
 
@@ -37,7 +36,6 @@ It's not allowed any kind of promotion.
 
 
 #Code of conduct
-#--------------------------
 
 All attendees, speakers, sponsors and volunteers at AngularJS&Beers are required to agree with the following code of conduct. Organizers will enforce this code through out the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
