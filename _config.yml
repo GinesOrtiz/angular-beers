@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            AngularBeers
 locale:           en_US
-url:              
+url: http://localhost:4000
 
 
 # Jekyll configuration
@@ -26,21 +26,21 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  name: Angular & Beers
+  avatar: angular-beers.png
+  bio: "AngularJS & Beers. Non-profit event format to socialise with AngularJS people. ^_^ #angularjs #angularbeers #barcelona"
+  email: info@angularbeers.com
+  disqus-shortname:
+  twitter: angularbeers
+  facebook: AngularBeers
   google:
-    plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: #username
+    plus: AngularBeers
+    analytics: UA-837977-25
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: AngularBeers
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
@@ -51,7 +51,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: angularbeers
   soundcloud: #username
   weibo: #username
   flickr: #username
