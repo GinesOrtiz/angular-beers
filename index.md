@@ -27,19 +27,16 @@ Thursday, May 21, 2015
 You have to submit your interest, the goal is create separated groups by different interests to interact together
 
 > For example:
->My interest: create a chrome extension
-Submit your interest to next meetup discussion
-or open an issue to AngularBeers.
->
-> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
+>#interest: create a chrome extension, thens submit your [interest to next meetup discussion](http://www.meetup.com/AngularJS-Beers/messages/boards/thread/48884172)
+or [open an issue](https://github.com/angularbeers/angular-beers/issues) to AngularBeers.
 >
 
 We will have separated tables organized by groups with common interests to interact together
 
 If you have any idea / project to share [contact organizer](http://www.meetup.com/AngularJS-Beers/members/?op=leaders) or [submit an issue]
-(https://github.com/angularbeers)
+(https://github.com/angularbeers/angular-beers/issues)
 
-**Remember:** AngularJS & Beers is your meetup, You decide what will happen, we don't provide any kind of workshops. Share your interests and help others with your contributions.
+**Remember:** AngularJS & Beers is an open-space where you can share, express your ideas and work in team: You decide what will happen, we don't provide any kind of workshops. Share your interests and help others with your contributions.
 {: .notice}
 
 ---
