@@ -5,7 +5,7 @@ Express your motivations, share your ideas and play together creating awesome th
 tags: [angularjs, barcelona, angularbeers, angularbcn]
 image:
   feature: angular-beers-header.jpg
-  credit:
+  credit: Curiosity kills boredom. Nothing can kill curiosity. Welcome to AngularJS & Beers
   creditlink:
 ---
 
