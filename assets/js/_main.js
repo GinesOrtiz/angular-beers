@@ -65,5 +65,3 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
-
-!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=6vvqpraigeu7e0avt1hihd0gcl";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");
