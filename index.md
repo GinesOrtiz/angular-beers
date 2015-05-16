@@ -38,7 +38,7 @@ We will have separated tables organized by groups with common interests to inter
 If you have any idea / project to share [contact organizer](http://www.meetup.com/AngularJS-Beers/members/?op=leaders) or [submit an issue]
 (https://github.com/angularbeers)
 
-**Remember**AngularJS & Beers is your meetup, You decide what will happen, we don't provide any kind of workshops. Share your interests and help others with your contributions.
+**Remember:** AngularJS & Beers is your meetup, You decide what will happen, we don't provide any kind of workshops. Share your interests and help others with your contributions.
 {: .notice}
 
 ---
