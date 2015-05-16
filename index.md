@@ -20,6 +20,7 @@ Thursday, May 21, 2015
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=6vvqpraigeu7e0avt1hihd0gcl";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
 <a href="http://www.meetup.com/AngularJS-Beers/events/221908399/" data-event="221908399" class="mu-rsvp-btn">RSVP</a>
 
+---
 
 # Contribs & Interests
 
@@ -56,6 +57,8 @@ The AngularJS&Beers is a <strong>non-profit</strong> event <strong>from the comm
 
 **Important:** It's not allowed any kind of promotion.
 {: .notice}
+
+<iframe width="300" height="570" src="http://meetu.ps/2Jqn26" frameborder="0"></iframe>
 
 ---
 
