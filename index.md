@@ -27,7 +27,7 @@ Thursday, May 21, 2015
 You have to submit your interest, the goal is create separated groups by different interests to interact together
 
 > For example:
->#interest: create a chrome extension, thens submit your [interest to next meetup discussion](http://www.meetup.com/AngularJS-Beers/messages/boards/thread/48884172)
+>#interest: create a chrome extension, then submit your [interest to next meetup discussion](http://www.meetup.com/AngularJS-Beers/messages/boards/thread/48884172)
 or [open an issue](https://github.com/angularbeers/angular-beers/issues) to AngularBeers.
 >
 
