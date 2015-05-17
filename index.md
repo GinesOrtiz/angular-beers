@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "AngularBeers is your open-space AngularJS Community"
 excerpt: "AngularJS & Beers. Non-profit event to socialise with AngularJS people
 Express your motivations, share your ideas and play together creating awesome things in team"
 tags: [angularjs, barcelona, angularbeers, angularbcn]
