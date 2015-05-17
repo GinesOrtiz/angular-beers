@@ -14,7 +14,7 @@ image:
 
 ---
 
-# Next Meetup
+## Next Meetup
 
 Thursday, May 21, 2015
 7:00 PM
@@ -23,7 +23,7 @@ Thursday, May 21, 2015
 
 ---
 
-# Contribs & Interests
+## Contribs & Interests
 
 You have to submit your interest, the goal is create separated groups by different interests to interact together
 
@@ -41,14 +41,14 @@ If you have any idea / project to share [contact organizer](http://www.meetup.co
 
 ---
 
-# Location
+## Location
 <div class="google-maps">
   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11972.679142524436!2d2.170336!3d41.392119!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49a9028070925ef3!2sBar+Cocteleria+Snooker!5e0!3m2!1ses!2ses!4v1431806661859" width="600" height="450" frameborder="0" style="border:0"></iframe>
 </div>
 
 ---
 
-# About us
+## About us
 
 The AngularJS&Beers is a <strong>non-profit</strong> event <strong>from the community for the community</strong>. There is no schedule or speaker list in advance. Attendees get organized by common interest to interact.
 
@@ -59,7 +59,7 @@ The AngularJS&Beers is a <strong>non-profit</strong> event <strong>from the comm
 
 ---
 
-# CoC
+## CoC
 
 All attendees, speakers, sponsors and volunteers at AngularJS&Beers are required to agree with the following code of conduct. Organizers will enforce this code through out the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
