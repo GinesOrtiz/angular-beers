@@ -34,8 +34,7 @@ or [open an issue](https://github.com/angularbeers/angular-beers/issues) to Angu
 
 We will have separated tables organized by groups with common interests to interact together
 
-If you have any idea / project to share [contact organizer](http://www.meetup.com/AngularJS-Beers/members/?op=leaders) or [submit an issue]
-(https://github.com/angularbeers/angular-beers/issues)
+If you have any idea / project to share [contact organizer](http://www.meetup.com/AngularJS-Beers/members/?op=leaders) or [submit an issue](https://github.com/angularbeers/angular-beers/issues)
 
 **Remember:** AngularJS & Beers is an open-space where you can share, express your ideas and work in team: You decide what will happen, we don't provide any kind of workshops. Share your interests and help others with your contributions.
 {: .notice}
