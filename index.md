@@ -6,11 +6,17 @@ Express your motivations, share your ideas and play together creating awesome th
 tags: [angularjs, barcelona, angularbeers, angularbcn]
 image:
   feature: angular-beers-header.jpg
-  credit: 
+  credit:
   creditlink:
 ---
 
 {% include _toc.html %}
+
+---
+
+## Chat with us! Get your invite here:
+
+<script async defer src="http://slackin.angularbeers.com/slackin.js?large"></script>
 
 ---
 
