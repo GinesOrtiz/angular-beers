@@ -25,8 +25,7 @@ image:
 Thursday, May 21, 2015
 7:00 PM
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/541522619002077648/api/mu.btns.js?id=6vvqpraigeu7e0avt1hihd0gcl";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
-<a href="http://www.meetup.com/AngularJS-Beers/events/221908399/" data-event="221908399" class="mu-rsvp-btn">RSVP</a>
-
+<a href="http://www.meetup.com/AngularJS-Beers/events/222722065/" data-event="222722065" class="mu-rsvp-btn">RSVP</a>
 ---
 
 ## Contribs & Interests
